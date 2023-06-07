@@ -128,3 +128,8 @@ static/
 
 # Add again for course purpose
 !db.sqlite3
+
+
+# meus gitignore
+vjmxt
+vjmxt.pub
